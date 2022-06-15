@@ -1,0 +1,9 @@
+#Configuração das mensagens de erro
+erro_console: 'Não é possível usar esse comando pelo console!'
+sem_permissao: '&cVocê não tem permissão para usar esse comando!'
+uso: 'Use &c/voar &e(player)'
+
+#Configurção das mensagens do comando /voar
+voar:
+  desativado: 'Voo &cdesligado!'
+  ativado: 'Voo &cligado!'

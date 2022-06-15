@@ -1,0 +1,9 @@
+name: VoarSubir
+version: 2.0
+main: me.minebarros.voarsubir.VoarSubir
+api-version: 1.15
+authors: [minebarros]
+
+commands:
+  voar:
+    description: 'faz você voar'

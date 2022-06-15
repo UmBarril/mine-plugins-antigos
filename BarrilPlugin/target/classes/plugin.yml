@@ -1,0 +1,8 @@
+name: BarrilPlugin
+version: 1.0
+main: me.minebarros.barrilplugin.Main
+api-version: 1.15
+authors: [minebarros]
+commands:
+  parado:
+    description: Comando teste.
